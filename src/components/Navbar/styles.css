@@ -1,0 +1,27 @@
+.dsd-navbar {
+    width: 100%;
+    height: 70px;
+    background: var(--dsd-color-bg-primary);
+}
+
+.dsd-link-navbar {
+    display: flex;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+.dsd-text-navbar{
+    padding: 26px 160px;
+    display: flex;
+    color: var(--dsd-color-bg-secordary);
+}
+.dsd-text-navbar p{
+    padding-left: 20px;
+}
+
+.dsd-link-navbar img {
+    padding: 20px 160px;
+    width: 30px;
+    height: 30px;
+}
+

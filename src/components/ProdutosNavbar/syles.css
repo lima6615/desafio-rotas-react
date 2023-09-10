@@ -1,0 +1,10 @@
+.dsd-produtos-navbar {
+    border: 1px solid var(--dsd-color-bg-tertiary);
+    background: var(--dsd-color-bg-tertiary);
+    height: 60px;
+    display: flex;
+}
+
+.dsd-produtos-navbar p {
+   padding: 20px;
+}
